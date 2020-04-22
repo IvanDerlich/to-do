@@ -4,5 +4,13 @@
 @import 'components/tasks';
 @import 'components/editTask';
 @import 'components/projectList';
+@import 'components/navigation';
 
 @import 'layout/content';
+
+.navigation {
+  
+  @media screen and (min-width: 720px) {
+    display: none;
+  } 
+}

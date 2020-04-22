@@ -2,13 +2,19 @@
   &-container {
     background: var(--main-color);
     flex: 2 1 100%;
+    display: none;
+
+    @media screen and (min-width:720px){
+      display: block;
+    }
 
     & > #tasks {
-      height: 100%;      
+      height: 100%;
+      display: flex;    
       flex-direction: column;
-      justify-content: space-between;
-      padding: 24px;
       width: 100%;
+      padding-bottom: 0;
+      padding: 0 16px;
     }
 
   }
@@ -17,34 +23,65 @@
     color: var(--third-color);
     font-size: 28px;
     text-transform: uppercase;
-    margin-bottom: 74px;
+    margin-top: 162px;
+    margin-bottom: 8px;
+    @media screen and (min-width:720px) {
+      margin-top: 85px;
+    }
   }
 
   &-list {
     max-height: 340px;
     overflow-y: auto;
     height: 100%;
-    //width: 500px;
   }
 
   &-item {
-    background-color: var(--alt-second-color);
-    height: 64px;
+    background-color: var(--second-color);
+    height: 44px;
     margin-bottom: 4px;
     border-radius: 8px;
-    padding-left: 24px;
-    padding-right: 24px;
+    padding-left: 16px;
+    padding-right: 16px;
     display: flex;
     align-items: center;
     justify-content: space-between;
 
+    & > span {
+      margin-right: 16px;
+      display: inline-block;
+    }
+
+    &:hover {
+      background-color: var(--alt-second-color);
+    }
+
     & > p {
-      color: var(--light-color)
+      color: var(--light-color);
+      height: 100%;
+      width: 100%;
+      display: flex;
+      align-items: center;
+
+      &:hover {
+        cursor: pointer;
+      }
     }
 
     & > .delete-button {
-      display: none;
+      display: block;
+
+      &:hover {
+        cursor: pointer;
+        stroke: red;
+      }
     }
+
+    @media screen and (min-width: 720px) {
+      & > .delete-button {
+        display: none;
+      }
+    } 
 
     &:hover .delete-button {
       display: inline-block;
@@ -56,11 +93,26 @@
 .add-new-task {
   color: var(--light-color);
   background: var(--alt-second-color);
-  margin-bottom: 24px;
-  height: 64px;
+  margin-bottom: 16px;
+  height: 44px;
   border: none;
-  padding: 24px;
+  padding-left: 16px;
   font-size: 16px;
   border-radius: 8px;
   width: 100%;
+  margin-top: auto;
+  min-height: 44px;
+
+}
+
+.task-done {
+  
+  & > .task-title {
+    color: var(--third-color);
+    text-decoration: line-through;
+  }
+}
+
+.feather-check-circle {
+  stroke: var(--third-color);
 }
