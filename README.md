@@ -20,38 +20,52 @@
 ![Hireable](https://cdn.rawgit.com/hiendv/hireable/master/styles/default/yes.svg)
 
 <!-- PROJECT LOGO -->
-<br />
+<!-- <br />
 <p align="center">
   <a href="#">
     <img src="img/mLogo.png" alt="Logo" width="80" height="80">
-  </a>
+  </a> -->
+<!-- PROJECT LOGO-->
 
   <h3 align="center">To do Application using Javascript</h3>
 
   <p align="center">
-    This project is part of the Microverse Javascript curriculum!
-    <br />
-    <a href="https://github.com/SantiagoGuerra/to-do"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://ivanderlich.github.io/to-do">View Demo</a>
-    ·
-    <a href="https://github.com/SantiagoGuerra/to-do/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/SantiagoGuerra/to-do/issues">Request Feature</a>
+  In this project we build a website app for To Do list management. This project is responsive (see below)  
+    
+  <br />
+  <a href="https://github.com/IvanDerlich/to-do"><strong>Explore the project files »</strong></a>
+  <br />
+  <br />
+  <a href="https://ivanderlich.github.io/to-do">View Demo</a>
+  ·
+  <a href="https://github.com/IvanDerlich/to-do/issues">Report Bug</a>
+  ·
+  <a href="https://github.com/IvanDerlich/to-do/issues">Request Feature</a>
   </p>
 </p>
+
+## Responsive design:
+
+We've developed one interface for cellphones devices and another for desktop devices
+
+If you are on a desktop PC and want to see how it will look on a cellphone press:
+
+    CTRL + SHIFT + I
+
+and then press:
+
+    CTRL + SHIFT + M
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-- [Table of Contents](#table-of-contents)
-- [About The Project](#about-the-project)
-- [Installation](#installation)
+  - [Table of Contents](#table-of-contents)
+  - [About The Project](#about-the-project)
+  - [Installation](#installation)
   - [Built With](#built-with)
-- [Live version](#live-version)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
+  - [Live version](#live-version)
+  - [Contact](#contact)
+  - [Acknowledgements](#acknowledgements)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -65,14 +79,14 @@ This is the fourth project of the Microverse Javascript Sectio
 
 If you want to install and play with this application you need: 
 * ruby installed in your computer
-* [download](https://github.com/SantiagoGuerra/to-do/archive/master.zip) or clone this repo
+* [download](https://github.com/IvanDerlich/to-do/archive/master.zip) or clone this repo
   - Clone over HTTPS:
   ```
-   $ git clone https://github.com/SantiagoGuerra/to-do.git
+   $ git clone https://github.com/IvanDerlich/to-do.git
   ```
   - Clone over SSH:
   ```
-   $ git clone ssh://git@github.com:SantiagoGuerra/to-do.git
+   $ git clone ssh://git@github.com:IvanDerlich/to-do.git
   ```
 
 ### Built With
@@ -85,25 +99,21 @@ This project was built using these technologies.
 <!-- LIVE VERSION -->
 ## Live version
 
-You can see it working [here](https://santiagoguerra.github.io/to-do)
+You can see it working [here](https://ivanderlich.github.io/to-do)
 
 <!-- CONTACT -->
-## Contact
+## Contact Creators
 
-Santiago Guerra - [@santi_gueam](https://twitter.com/dedalo_g)  - [@SantiagoGuerra](https://github.com/SantiagoGuerra) - guerrasantiago19@gmail.com
+[Ivan Derlich](https://www.ivanderlich.com)
+
+[Santiago Guerra](https://github.com/SantiagoGuerra)
 <br />
 <br />
-[Ivan Derlich](https://github.com/IvanDerlich)
-
-
-Project Link: [https://github.com/SantiagoGuerra/to-do)
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-* [Microverse](https://www.microverse.org/)
-* [The Odin Project](https://www.theodinproject.com/)
-* [Ruby Documentation](https://www.ruby-lang.org/en/documentation/)
-* [tic-tac-toe](https://www.exploratorium.edu/brain_explorer/tictactoe.html)
+* [Microverse](https://www.microverse.org/):   This project is part of the Microverse Javascript curriculum!
+* [The Odin Project](https://www.theodinproject.com/): They've provided Microverse with [this guide](https://www.theodinproject.com/courses/javascript/lessons/todo-list). Project title: Todo list.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
