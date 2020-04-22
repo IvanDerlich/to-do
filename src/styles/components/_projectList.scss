@@ -1,5 +1,103 @@
-#projectList {
+.project-list {
   background: #34495E;
-  min-width: 320px;    
-  height: 100%;
+  width: 100vw;
+  max-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+
+  @media screen and (min-width:720px) {
+    max-width: 320px;
+  }
+
+  &-title{
+    text-transform: uppercase;
+    margin-top: 162px;
+    margin-bottom: 8px;
+    color: var(--third-color);
+    font-weight: 100;
+    font-size: 12px;
+    margin-left: 12px;
+    @media screen and (min-width:720px) {
+      margin-top: 85px;
+      margin-bottom: 24px;
+    }
+  }
+  &-container{
+    //background-color: blue;
+    height: 244px;
+    overflow-y: auto;
+  }
+  &-project{
+    
+    padding:24px;
+    padding-left: 16px;
+    height: 44px;
+    display: flex;
+    margin-bottom: 4px;
+    align-items: center;    
+    justify-content: end;
+    &:hover .project-list-delete{
+      display:inline-block;
+    }
+    &:hover .project-list-folder-icon{
+      display:none;
+    }
+    &:hover{
+      background-color: var(--main-color);
+      cursor: pointer;
+    } 
+
+   
+  }
+  &-number-of-tasks{
+    order:3;
+    color: var(--third-color);
+    font-size: 12px;
+    padding-left: 16px;
+  }  
+  &-delete{
+    order: -1;
+    display: none; 
+    &:hover{
+      stroke:red;   
+    }    
+  }
+  &-input-project{
+    color: var(--light-color);
+    background: var(--main-color);
+    height: 44px;
+    border: none;
+    padding-left: 16px;
+    font-size: 16px;
+    border-radius: 8px;
+    width: calc(100% - 32px);
+    margin: 16px;
+    margin-top: 32px;
+    min-height: 44px;
+  }  
+}
+.project-name {
+  margin-right: auto;
+  margin-left: 16px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  color:var(--light-color);
+  height: 44px;
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+.credits{
+  color: var(--light-color);
+  margin-top: 48px;
+  text-align: center;  
+  & > * {
+    margin-bottom: 6px;
+  }
+  & > a {
+    text-decoration: none;
+    color: var(--third-color);
+  }
 }
