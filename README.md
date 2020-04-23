@@ -45,7 +45,7 @@
   </p>
 </p>
 
-## Cellphone
+## Mobile
 
 ![cellphone1](./docs/cellphone1.png)<br>
 ![cellphone2](./docs/cellphone2.png)<br>
