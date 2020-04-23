@@ -27,7 +27,7 @@
   </a> -->
 <!-- PROJECT LOGO-->
 
-  <h3 align="center">Task Management Application</h3>
+# Task Management Application
 
   <p align="center">
 
