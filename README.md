@@ -27,10 +27,11 @@
   </a> -->
 <!-- PROJECT LOGO-->
 
-  <h3 align="center">To do Application using Javascript</h3>
+  <h3 align="center">Task Management Application</h3>
 
   <p align="center">
-  In this project we build a website app for To Do list management. This project is responsive (see below)  
+  
+  Website app to manage projects and tasks.
     
   <br />
   <a href="https://github.com/IvanDerlich/to-do"><strong>Explore the project files »</strong></a>

@@ -14,7 +14,7 @@
     "bn": "webpack --mode production",
     "s": "webpack-dev-server --mode development --open",
     "w": "webpack --mode production --watch",
-    "deploy": "webpack --mode production && git subtree push --prefix dist origin gh-pages && xdg-open https://IvanDerlich.github.io/to-do",
+    "deploy": "webpack --mode production && git push -d gh-pages && git subtree push --prefix dist origin gh-pages && xdg-open https://IvanDerlich.github.io/to-do",
     "d": "webpack --mode production && git subtree push --prefix dist origin gh-pages && xdg-open https://IvanDerlich.github.io/to-do"
   },
   "repository": {
