@@ -30,7 +30,7 @@
   <h3 align="center">Task Management Application</h3>
 
   <p align="center">
-  
+
   Website app to manage projects and tasks.
     
   <br />
@@ -45,17 +45,16 @@
   </p>
 </p>
 
-## Responsive design:
+## Cellphone
 
-We've developed one interface for cellphones devices and another for desktop devices
+![cellphone1](./docs/cellphone1.png)<br>
+![cellphone2](./docs/cellphone2.png)<br>
+![cellphone3](./docs/cellphone3.png)
 
-If you are on a desktop PC and want to see how it will look on a cellphone press:
+## Desktop
 
-    CTRL + SHIFT + I
-
-and then press:
-
-    CTRL + SHIFT + M
+![Desktop](./docs/Desktop.png)
+![Usage](docs/Usage.gif)
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
@@ -71,24 +70,38 @@ and then press:
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Product Name Screen Shot][product-screenshot]]
-
-This is the fourth project of the Microverse Javascript Sectio
+  Website app to manage projects and tasks. 
 
 <!-- ABOUT THE PROJECT -->
-## Installation
 
-If you want to install and play with this application you need: 
-* ruby installed in your computer
-* [download](https://github.com/IvanDerlich/to-do/archive/master.zip) or clone this repo
-  - Clone over HTTPS:
-  ```
-   $ git clone https://github.com/IvanDerlich/to-do.git
-  ```
-  - Clone over SSH:
-  ```
-   $ git clone ssh://git@github.com:IvanDerlich/to-do.git
-  ```
+## Instalation
+
+Pick a directory of your choosing and paste this command in the terminal:
+
+    git clone https://github.com/IvanDerlich/to-do.git && cd to-do && npm install && npm run build
+
+
+### Description of Instalation
+
+    git clone https://github.com/IvanDerlich/to-do.git  
+  
+  Downloads the source code from github
+
+    cd to-do
+  
+  Changes directory to the downloaded context
+
+    npm install
+
+  Installs project's dependencies
+
+    npm run build
+
+  Builds the project and opens the file you've just created (dist/index.html) in your default browser. You can also substitute the build command with 
+
+    npm run start 
+  
+  And your default browser is going to open the website in development mode
 
 ### Built With
 This project was built using these technologies.
@@ -100,21 +113,24 @@ This project was built using these technologies.
 <!-- LIVE VERSION -->
 ## Live version
 
-You can see it working [here](https://ivanderlich.github.io/to-do)
+[Here](https://ivanderlich.github.io/to-do)
 
 <!-- CONTACT -->
-## Contact Creators
+## Contact Creator
 
 [Ivan Derlich](https://www.ivanderlich.com)
 
-[Santiago Guerra](https://github.com/SantiagoGuerra)
 <br />
 <br />
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-* [Microverse](https://www.microverse.org/):   This project is part of the Microverse Javascript curriculum!
+* [Microverse](https://www.microverse.org/):   This project is part of the Microverse Javascript curriculum! They checked our code in [this](https://github.com/SantiagoGuerra/to-do/pull/1) pull request
 * [The Odin Project](https://www.theodinproject.com/): They've provided Microverse with [this guide](https://www.theodinproject.com/courses/javascript/lessons/todo-list). Project title: Todo list.
+  
+* [Santiago Guerra](https://github.com/SantiagoGuerra)
+We worked on [his](https://github.com/santiagoguerra/to-do) repo. After we got this project approved by Microverse. We did a lot of styling together and then I forked and started working here. 
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
