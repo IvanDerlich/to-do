@@ -65,7 +65,7 @@
   - [Built With](#built-with)
   - [Live version](#live-version)
   - [Contact](#contact)
-  - [Acknowledgements](#acknowledgements)
+  - [Acknowledgments](#acknowledgements)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -74,18 +74,18 @@
 
 <!-- ABOUT THE PROJECT -->
 
-## Instalation
+## Installation
 
 Pick a directory of your choosing and paste this command in the terminal:
 
     git clone https://github.com/IvanDerlich/to-do.git && cd to-do && npm install && npm run build
 
 
-### Description of Instalation
+### Description of Installation
 
     git clone https://github.com/IvanDerlich/to-do.git  
   
-  Downloads the source code from github
+  Downloads the source code from Github
 
     cd to-do
   
@@ -124,7 +124,7 @@ This project was built using these technologies.
 <br />
 
 <!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
+## Acknowledgments
 * [Microverse](https://www.microverse.org/):   This project is part of the Microverse Javascript curriculum! They checked our code in [this](https://github.com/SantiagoGuerra/to-do/pull/1) pull request
 * [The Odin Project](https://www.theodinproject.com/): They've provided Microverse with [this guide](https://www.theodinproject.com/courses/javascript/lessons/todo-list). Project title: Todo list.
   
