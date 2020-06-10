@@ -91,9 +91,7 @@ Download the source code from GitHub:
 
     npm run build
 
-  You can also substitute the build command with to work on developer mode:
-
-    npm run start  
+  If the previous command doesn't open the index.html file in you default browser, then open in manually. It's located in the 'dist' folder.
   
 
 ### Built With
