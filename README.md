@@ -46,6 +46,8 @@ This project was built using these technologies:
 
 [Here](https://ivanderlich.github.io/to-do)
 
+## Interact
+
 <a href="https://github.com/IvanDerlich/to-do/issues">Report Bug</a>
 
 <a href="https://github.com/IvanDerlich/to-do/issues">Request Feature</a>
