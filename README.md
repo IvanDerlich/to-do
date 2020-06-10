@@ -36,10 +36,10 @@ Download the source code from GitHub:
 
 ### Built With
 This project was built using these technologies:
-* JavaScript
-* Webpack
-* NPM
-* CSS/HTML
+* JavaScript.
+* Webpack.
+* NPM.
+* CSS/HTML.
 
 <!-- LIVE VERSION -->
 ## Live version
