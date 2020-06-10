@@ -3,15 +3,15 @@
 ![Usage](docs/Usage.gif)
 ![Desktop](./docs/Desktop.png)
 
-# Task Management Application
-
-  Website app to manage projects and tasks.    
-
 ## Mobile Interface
 
 ![cellphone1](./docs/cellphone1.png)<br>
 ![cellphone2](./docs/cellphone2.png)<br>
 ![cellphone3](./docs/cellphone3.png)
+
+# Task Management Application
+
+  Website app to manage projects and tasks.    
 
 
 <!-- TABLE OF CONTENTS -->
