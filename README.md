@@ -83,15 +83,15 @@ Pick a directory of your choosing and download the source code from GitHub:
 
     cd to-do
   
-  Install project's dependencies.
+  Install project's dependencies:
 
     npm install
 
-  Build the project and open the file you've just created (dist/index.html) in your default browser. 
+  Build the project and open the file you've just created (dist/index.html) in your default browser:
 
     npm run build
 
-  You can also substitute the build command with to work on developer mode.
+  You can also substitute the build command with to work on developer mode:
 
     npm run start  
   
