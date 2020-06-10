@@ -77,36 +77,30 @@
 
 ## Instalation
 
-Pick a directory of your choosing and paste this command in the terminal:
-
-    git clone https://github.com/IvanDerlich/to-do.git && cd to-do && npm install && npm run build
-
-
-### Description of Instalation
+Pick a directory of your choosing and download the source code from GitHub:
 
     git clone https://github.com/IvanDerlich/to-do.git  
   
-  Downloads the source code from github
+  Move to the directory of the downloaded folder:
 
     cd to-do
   
-  Changes directory to the downloaded context
+  Install project's dependencies.
 
     npm install
 
-  Installs project's dependencies
+  Build the project and open the file you've just created (dist/index.html) in your default browser. 
 
     npm run build
 
-  Builds the project and opens the file you've just created (dist/index.html) in your default browser. You can also substitute the build command with 
+  You can also substitute the build command with to work on developer mode.
 
-    npm run start 
+    npm run start  
   
-  And your default browser is going to open the website in development mode
 
 ### Built With
 This project was built using these technologies.
-* Javascript
+* JavaScript
 * Webpack
 * NPM
 * CSS/HTML
@@ -126,7 +120,7 @@ This project was built using these technologies.
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-* [Microverse](https://www.microverse.org/):   This project is part of the Microverse Javascript curriculum! They checked our code in [this](https://github.com/SantiagoGuerra/to-do/pull/1) pull request
+* [Microverse](https://www.microverse.org/):   This project is part of the Microverse JavaScript curriculum! They checked our code in [this](https://github.com/SantiagoGuerra/to-do/pull/1) pull request
 * [The Odin Project](https://www.theodinproject.com/): They've provided Microverse with [this guide](https://www.theodinproject.com/courses/javascript/lessons/todo-list). Project title: Todo list.
   
 * [Santiago Guerra](https://github.com/SantiagoGuerra)
