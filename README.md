@@ -118,7 +118,7 @@ This project was built using these technologies.
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-* [Microverse](https://www.microverse.org/):   This project is part of the Microverse JavaScript curriculum! They checked our code in [this](https://github.com/SantiagoGuerra/to-do/pull/1) pull request
+* [Microverse](https://www.microverse.org/):   This project is part of the Microverse JavaScript curriculum! They checked our code in [this](https://github.com/SantiagoGuerra/to-do/pull/1) pull request.
 * [The Odin Project](https://www.theodinproject.com/): They've provided Microverse with [this guide](https://www.theodinproject.com/courses/javascript/lessons/todo-list). Project title: Todo list.
   
 * [Santiago Guerra](https://github.com/SantiagoGuerra)
