@@ -95,7 +95,7 @@ Download the source code from GitHub:
   
 
 ### Built With
-This project was built using these technologies.
+This project was built using these technologies:
 * JavaScript
 * Webpack
 * NPM
