@@ -48,9 +48,9 @@ This project was built using these technologies:
 
 ## Interact
 
-<a href="https://github.com/IvanDerlich/to-do/issues">Report Bug</a>
+[Report Bug](https://github.com/IvanDerlich/to-do/issues)
 
-<a href="https://github.com/IvanDerlich/to-do/issues">Request Feature</a>
+[Request Feature](https://github.com/IvanDerlich/to-do/issues).
 
 ## Authors
 
