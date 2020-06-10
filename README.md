@@ -91,7 +91,7 @@ Download the source code from GitHub:
 
     npm run build
 
-  If the previous command doesn't open the index.html file in you default browser, then open in manually. It's located in the 'dist' folder.
+  If the previous command doesn't open the index.html file in you default browser, then open it manually. It's located in the 'dist' folder.
   
 
 ### Built With
