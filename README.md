@@ -13,7 +13,7 @@
 ![cellphone2](./docs/cellphone2.png)<br>
 ![cellphone3](./docs/cellphone3.png)  
 
-## Instalation
+## Installation
 
 Download the source code from GitHub:
 
@@ -23,7 +23,7 @@ Download the source code from GitHub:
 
     cd to-do
   
-  Install project's dependencies:
+  Install the project's dependencies:
 
     npm install
 
@@ -31,7 +31,7 @@ Download the source code from GitHub:
 
     npm run build
 
-  If the previous command doesn't open the index.html file in you default browser, then open it manually. It's located in the 'dist' folder.
+  If the previous command doesn't open the index.html file in your default browser, then open it manually. It's located in the 'dist' folder.
   
 
 ### Built With
@@ -62,7 +62,7 @@ This project was built using these technologies:
 <br />
 
 <!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
+## Acknowledgments
 * [Microverse](https://www.microverse.org/):   This project is part of the Microverse JavaScript curriculum! They checked our code in [this](https://github.com/SantiagoGuerra/to-do/pull/1) pull request.
 * [The Odin Project](https://www.theodinproject.com/): They've provided Microverse with [this guide](https://www.theodinproject.com/courses/javascript/lessons/todo-list). Project title: Todo list.
 
