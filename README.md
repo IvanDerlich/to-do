@@ -42,8 +42,6 @@
   <a href="https://github.com/IvanDerlich/to-do"><strong>Explore the project files »</strong></a>
   <br />
   <br />
-  <a href="https://ivanderlich.github.io/to-do">View Demo</a>
-  ·
   <a href="https://github.com/IvanDerlich/to-do/issues">Report Bug</a>
   ·
   <a href="https://github.com/IvanDerlich/to-do/issues">Request Feature</a>
