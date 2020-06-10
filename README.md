@@ -66,8 +66,6 @@ This project was built using these technologies:
 * [Microverse](https://www.microverse.org/):   This project is part of the Microverse JavaScript curriculum! They checked our code in [this](https://github.com/SantiagoGuerra/to-do/pull/1) pull request.
 * [The Odin Project](https://www.theodinproject.com/): They've provided Microverse with [this guide](https://www.theodinproject.com/courses/javascript/lessons/todo-list). Project title: Todo list.
 
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/SantiagoGuerra/to-do.svg?style=flat-square
