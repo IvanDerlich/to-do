@@ -13,25 +13,6 @@
 ![cellphone2](./docs/cellphone2.png)<br>
 ![cellphone3](./docs/cellphone3.png)  
 
-
-<!-- TABLE OF CONTENTS -->
-## Table of Contents
-
-  - [Table of Contents](#table-of-contents)
-  - [About The Project](#about-the-project)
-  - [Installation](#installation)
-  - [Built With](#built-with)
-  - [Live version](#live-version)
-  - [Contact](#contact)
-  - [Acknowledgments](#acknowledgements)
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-  Website app to manage projects and tasks. 
-
-<!-- ABOUT THE PROJECT -->
-
 ## Instalation
 
 Download the source code from GitHub:
