@@ -1,3 +1,7 @@
+# Task Management Application
+
+  Website app to manage projects and tasks. 
+
 ## Desktop Interface
 
 ![Usage](docs/Usage.gif)
@@ -7,11 +11,7 @@
 
 ![cellphone1](./docs/cellphone1.png)<br>
 ![cellphone2](./docs/cellphone2.png)<br>
-![cellphone3](./docs/cellphone3.png)
-
-# Task Management Application
-
-  Website app to manage projects and tasks.    
+![cellphone3](./docs/cellphone3.png)  
 
 
 <!-- TABLE OF CONTENTS -->
