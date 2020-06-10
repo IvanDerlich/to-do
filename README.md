@@ -1,32 +1,3 @@
-<!--
-*** Thanks for checking out this README Template. If you have a suggestion that would
-*** make this better, please fork the repo and create a pull request or simply open
-*** an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-![Hireable](https://cdn.rawgit.com/hiendv/hireable/master/styles/default/yes.svg)
-
-<!-- PROJECT LOGO -->
-<!-- <br />
-<p align="center">
-  <a href="#">
-    <img src="img/mLogo.png" alt="Logo" width="80" height="80">
-  </a> -->
-<!-- PROJECT LOGO-->
-
 ## Desktop
 
 ![Usage](docs/Usage.gif)
@@ -36,11 +7,8 @@
 
   <p align="center">
 
-  Website app to manage projects and tasks.
-    
-  <br />
-  <a href="https://github.com/IvanDerlich/to-do"><strong>Explore the project files »</strong></a>
-  <br />
+  Website app to manage projects and tasks.    
+
   <br />
   <a href="https://github.com/IvanDerlich/to-do/issues">Report Bug</a>
   ·
