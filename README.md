@@ -44,7 +44,7 @@ This project was built using these technologies:
 <!-- LIVE VERSION -->
 ## Live version
 
-[Here](https://ivanderlich.github.io/to-do)
+[Here](https://ivanderlich.github.io/to-do).
 
 ## Interact
 
@@ -54,9 +54,9 @@ This project was built using these technologies:
 
 ## Authors
 
-[Ivan Derlich](https://www.ivanderlich.com)
+[Ivan Derlich](https://www.ivanderlich.com).
 
-[Santiago Guerra](https://github.com/SantiagoGuerra)
+[Santiago Guerra](https://github.com/SantiagoGuerra).
 
 <br />
 <br />
