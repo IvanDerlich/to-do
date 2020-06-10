@@ -75,7 +75,7 @@
 
 ## Instalation
 
-Pick a directory of your choosing and download the source code from GitHub:
+Download the source code from GitHub:
 
     git clone https://github.com/IvanDerlich/to-do.git  
   
