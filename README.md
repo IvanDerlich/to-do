@@ -107,9 +107,10 @@ This project was built using these technologies:
 [Here](https://ivanderlich.github.io/to-do)
 
 <!-- CONTACT -->
-## Contact Creator
+## Authors
 
 [Ivan Derlich](https://www.ivanderlich.com)
+[Santiago Guerra](https://github.com/SantiagoGuerra)
 
 <br />
 <br />
@@ -118,9 +119,7 @@ This project was built using these technologies:
 ## Acknowledgements
 * [Microverse](https://www.microverse.org/):   This project is part of the Microverse JavaScript curriculum! They checked our code in [this](https://github.com/SantiagoGuerra/to-do/pull/1) pull request.
 * [The Odin Project](https://www.theodinproject.com/): They've provided Microverse with [this guide](https://www.theodinproject.com/courses/javascript/lessons/todo-list). Project title: Todo list.
-  
-* [Santiago Guerra](https://github.com/SantiagoGuerra)
-We worked on [his](https://github.com/santiagoguerra/to-do) repo. After we got this project approved by Microverse. We did a lot of styling together and then I forked and started working here. 
+
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
