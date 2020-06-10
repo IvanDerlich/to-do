@@ -87,7 +87,7 @@ Download the source code from GitHub:
 
     npm install
 
-  Build the project and open the file you've just created (dist/index.html) in your default browser:
+  Build the project:
 
     npm run build
 
