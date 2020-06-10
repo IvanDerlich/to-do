@@ -1,22 +1,13 @@
-## Desktop
+## Desktop Interface
 
 ![Usage](docs/Usage.gif)
 ![Desktop](./docs/Desktop.png)
 
 # Task Management Application
 
-  <p align="center">
-
   Website app to manage projects and tasks.    
 
-  <br />
-  <a href="https://github.com/IvanDerlich/to-do/issues">Report Bug</a>
-  ·
-  <a href="https://github.com/IvanDerlich/to-do/issues">Request Feature</a>
-  </p>
-</p>
-
-## Mobile
+## Mobile Interface
 
 ![cellphone1](./docs/cellphone1.png)<br>
 ![cellphone2](./docs/cellphone2.png)<br>
@@ -74,7 +65,10 @@ This project was built using these technologies:
 
 [Here](https://ivanderlich.github.io/to-do)
 
-<!-- CONTACT -->
+<a href="https://github.com/IvanDerlich/to-do/issues">Report Bug</a>
+
+<a href="https://github.com/IvanDerlich/to-do/issues">Request Feature</a>
+
 ## Authors
 
 [Ivan Derlich](https://www.ivanderlich.com)
